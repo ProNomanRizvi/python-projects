@@ -6,12 +6,12 @@ Welcome to the **Python Projects** collection! This directory contains a variety
 
 ## 📂 Project Index
 
-| Project Name | Description | Key Concepts |
-| :--- | :--- | :--- |
-| [**🔐 Password Generator**](./Password-Generator) | A secure, customizable random password generator. | `random`, `string`, `pyperclip` |
-| [**🔢 Number Guessing Game**](./Number-Guessing-Game) | A classic high/low guessing game with feedback. | `random`, loops, conditionals |
-| [**✊ Rock Paper Scissors**](./Rock-Paper-Scissors) | Play the classic hand game against the computer. | `random`, game logic, input validation |
-| [**🧮 Calculator**](./Calculator) | Modular arithmetic calculator. | `functions`, `math`, error handling |
+| No. | Project Name | Description | Key Concepts |
+| :--- | :--- | :--- | :--- |
+| 1 | [**🧮 Calculator**](./Calculator) | Modular arithmetic calculator. | `functions`, `math`, error handling |
+| 2 | [**🔢 Number Guessing Game**](./Number-Guessing-Game) | A classic high/low guessing game with feedback. | `random`, loops, conditionals |
+| 3 | [**🔐 Password Generator**](./Password-Generator) | A secure, customizable random password generator. | `random`, `string`, `pyperclip` |
+| 4 | [**✊ Rock Paper Scissors**](./Rock-Paper-Scissors) | Play the classic hand game against the computer. | `random`, game logic, input validation |
 
 ## 🚀 Getting Started
 
