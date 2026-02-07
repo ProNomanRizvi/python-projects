@@ -12,6 +12,7 @@ Welcome to the **Python Projects** collection! This directory contains a variety
 | 2 | [**🔢 Number Guessing Game**](./Number-Guessing-Game) | A classic high/low guessing game with feedback. | `random`, loops, conditionals |
 | 3 | [**🔐 Password Generator**](./Password-Generator) | A secure, customizable random password generator. | `random`, `string`, `pyperclip` |
 | 4 | [**✊ Rock Paper Scissors**](./Rock-Paper-Scissors) | Play the classic hand game against the computer. | `random`, game logic, input validation |
+| 5 | [**📝 To-Do List App**](./To-Do-List-App) | Persistent task manager with JSON storage. | `json`, file I/O, CRUD |
 
 ## 🚀 Getting Started
 
